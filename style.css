@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+hr{
+    border: 1px solid black;
+    width: 70%;
+}
+
+p{
+    font-family:  Helvetica;
+}
